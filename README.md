@@ -4,7 +4,8 @@ Projeto que tem o intuito receber logs de um servidor(atualmente se encontra loc
 
 # Como rodar localmente:
 
-Apos clonar o projeto devera rodar o comando "npm install" em ambas pastas -> back-end / front-end
+Apos clonar o projeto devera rodar o comando "npm install" em ambas pastas -> back-end / front-end . --
+
 O SQL do projeto se encontra na pasta back-end/src/database e devera ser importado em uma plataforma que suporte MySql.
 
 # Login padrão:
@@ -21,3 +22,5 @@ Foi pensada dessa maneira pois se inserir mais de 2.000 dados de uma vez seria d
 # Tecnologias usadas
 
  Javascript | NodeJS | ReactJs
+
+
